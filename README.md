@@ -1,2 +1,3 @@
 # apnacollege
-this is my first repositry
+This is My First Repository
+Auther Zubbi stark
